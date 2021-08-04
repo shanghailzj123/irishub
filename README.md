@@ -23,6 +23,6 @@ See the [install instructions](https://www.irisnet.org/docs/get-started/install.
 * Explorer: <https://irishub.iobscan.io/>
 * Discord: <https://discord.gg/rUVw3RWfKp>
 
-## How To Contribute
+## How To Contribute etst
 
 See the [contributing](./CONTRIBUTING.md).
